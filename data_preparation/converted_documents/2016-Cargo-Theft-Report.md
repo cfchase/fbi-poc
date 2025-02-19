@@ -25,113 +25,82 @@ Participation in the UCR Program is voluntary, and agencies or states may choose
 
 Quality data concerning cargo theft can help us better understand this crime and the threats associated with it. As more agencies choose to report their incidents, the FBI's UCR Program will be able to provide more information about cargo theft on a national scale. For additional information on the UCR Program's collection of cargo theft incidents, visit &lt;https://www.fbi.gov/about-us/cjis/ucr/ucr-program-data-collections&gt;.
 
-Cargo Theft, 2016
+## Table 1 Cargo Theft by State by Incidents, and Stolen, Recovered Values, 2016
 
-Page 2
+| State          | Number of agencies reporting an incident | Number of incidents reported | Value of property stolen | Value of property recovered | Percent recovered |
+|----------------|------------------------------------------|------------------------------|--------------------------|-----------------------------|-------------------|
+| Total          | 147                                      | 692                          | $26,933,356              | $8,449,949                  | 31.4              |
+| Alaska         | 1                                        | 3                            | 331                      | 0                           | 0.0               |
+| Arkansas       | 2                                        | 3                            | 169,212                  | 30,000                      | 17.7              |
+| Colorado       | 2                                        | 2                            | 77,741                   | 34,000                      | 43.7              |
+| Delaware       | 3                                        | 6                            | 695,564                  | 530,566                     | 76.3              |
+| Florida        | 10                                       | 26                           | 3,080,534                | 497,070                     | 16.1              |
+| Georgia        | 4                                        | 12                           | 312,684                  | 53,000                      | 17.0              |
+| Indiana        | 1                                        | 1                            | 700                      | 0                           | 0.0               |
+| Maine          | 2                                        | 2                            | 225                      | 0                           | 0.0               |
+| Michigan       | 22                                       | 45                           | 1,005,058                | 454,024                     | 45.2              |
+| Mississippi    | 1                                        | 6                            | 6,102                    | 0                           | 0.0               |
+| Montana        | 1                                        | 1                            | 2,000                    | 0                           | 0.0               |
+| Nevada         | 2                                        | 3                            | 283,001                  | 104,901                     | 37.1              |
+| New Hampshire  | 1                                        | 1                            | 50,921                   | 49,721                      | 97.6              |
+| North Dakota   | 1                                        | 1                            | 15,269                   | 0                           | 0.0               |
+| Oklahoma       | 1                                        | 1                            | 21,657                   | 0                           | 0.0               |
+| South Carolina | 12                                       | 21                           | 359,943                  | 238,563                     | 66.3              |
+| Tennessee      | 16                                       | 298                          | 4,821,502                | 501,156                     | 10.4              |
+| Texas          | 56                                       | 249                          | 15,140,787               | 5,881,948                   | 38.8              |
+| Utah           | 1                                        | 1                            | 610                      | 0                           | 0.0               |
+| Virginia       | 8                                        | 10                           | 889,515                  | 75,000                      | 8.4               |
 
-Table 1
+## Table 2 Cargo Theft Property Stolen and Recovered by Type and Value, 2016
 
-## Cargo Theft by State
+| Type of property                              | Value of property stolen | Value of property recovered | Percent recovered |
+|-----------------------------------------------|--------------------------|-----------------------------|-------------------|
+| Total                                         | $26,933,356              | $8,449,949                  | 31.4              |
+| Alcohol                                       | 826,360                  | 1,029                       | 0.1               |
+| Automobile                                    | 392,879                  | 180,000                     | 45.8              |
+| Bicycle                                       | 6,527                    | 0                           | 0.0               |
+| Building materials                            | 1,262,488                | 441,583                     | 35.0              |
+| Camping, hunting, fishing equipment, supplies | 144                      | 0                           | 0.0               |
+| Chemicals                                     | 20,400                   | 0                           | 0.0               |
+| Clothes, furs                                 | 390,666                  | 5,420                       | 1.4               |
+| Computer hardware, software                   | 530,772                  | 515,925                     | 97.2              |
+| Consumable goods                              | 3,066,939                | 301,116                     | 9.8               |
+| Credit,debit cards                            | 0                        | 0                           | None              |
+| Drugs, narcotics                              | 50,081                   | 0                           | 0.0               |
+| Farm equipment                                | 3,368                    | 500                         | 14.8              |
+| Firearm accessories                           | 41,200                   | 40,000                      | 97.1              |
+| Firearms                                      | 15,550                   | 3,650                       | 23.5              |
+| Fuel                                          | 29,770                   | 0                           | 0.0               |
+| Household goods                               | 1,557,553                | 112,920                     | 7.2               |
+| Identity documents                            | 0                        | 0                           | None              |
+| Industrial equipment                          | 371,693                  | 52,183                      | 14.0              |
+| Jewelry, precious metals                      | 17,768                   | 548                         | 3.1               |
+| Lawn, yard, garden equipment                  | 5,406                    | 4,206                       | 77.8              |
+| Livestock                                     | 120,000                  | 0                           | 0.0               |
+| Medical, medical lab equipment                | 702                      | 0                           | 0.0               |
+| Merchandise                                   | 732,734                  | 27,568                      | 3.8               |
+| Metals, nonprecious                           | 1,126,825                | 952,500                     | 84.5              |
+| Money                                         | 35,029                   | 0                           | 0.0               |
+| Musical instruments                           | 9,000                    | 0                           | 0.0               |
+| Negotiable instrument                         | 15                       | 0                           | 0.0               |
+| Nonnegotiable instrument                      | 0                        | 0                           | None              |
+| Office equipment                              | 303,062                  | 0                           | 0.0               |
+| Other                                         | 6,770,506                | 1,021,466                   | 15.1              |
+| Other motor vehicles                          | 122,700                  | 60,000                      | 48.9              |
+| Pending inventory                             | 10                       | 0                           | 0.0               |
+| Photographic, optical equipment               | 53,100                   | 2,800                       | 5.3               |
+| Portable electronic communications            | 1,262,051                | 18,185                      | 1.4               |
+| Purse,wallet                                  | 959                      | 0                           | 0.0               |
+| Radio, TV, VCR                                | 472,001                  | 1,500                       | 0.3               |
+| Recreational, sports equipment                | 100,500                  | 0                           | 0.0               |
+| Tools                                         | 379,657                  | 21,850                      | 5.8               |
+| Trailers                                      | 2,589,730                | 1,735,703                   | 67.0              |
+| Trucks                                        | 3,919,445                | 2,879,963                   | 73.5              |
+| Vehicle parts                                 | 345,766                  | 69,334                      | 20.1              |
 
-by Incidents, and Stolen, Recovered Values, 2016
+According to Uniform Crime Reporting guidelines, the value of property stolen and/or recovered must be zero for Nonnegotiable instruments, Identity documents, and Credit and debit cards.
 
-Table 1, Download Excel
-
-|                | Number of                      |                              | Value of property   | Value of property   |                   |
-|----------------|--------------------------------|------------------------------|---------------------|---------------------|-------------------|
-| State          | agencies reporting an incident | Number of incidents reported | Stolen              | Recovered           | Percent recovered |
-| Total          | 147                            | 692                          | $26,933,356         | $8,449,949          | 31.4              |
-| Alaska         | 1                              | 3                            | 331                 | 0                   | 0.0               |
-| Arkansas       | 2                              | 3                            | 169,212             | 30,000              | 17.7              |
-| Colorado       | 2                              | 2                            | 77,741              | 34,000              | 43.7              |
-| Delaware       | 3                              | 6                            | 695,564             | 530,566             | 76.3              |
-| Florida        | 10                             | 26                           | 3,080,534           | 497,070             | 16.1              |
-| Georgia        | 4                              | 12                           | 312,684             | 53,000              | 17.0              |
-| Indiana        | 1                              | 1                            | 700                 | 0                   | 0.0               |
-| Maine          | 2                              | 2                            | 225                 | 0                   | 0.0               |
-| Michigan       | 22                             | 45                           | 1,005,058           | 454,024             | 45.2              |
-| Mississippi    | 1                              | 6                            | 6,102               | 0                   | 0.0               |
-| Montana        | 1                              | 1                            | 2,000               | 0                   | 0.0               |
-| Nevada         | 2                              | 3                            | 283,001             | 104,901             | 37.1              |
-| New Hampshire  | 1                              | 1                            | 50,921              | 49,721              | 97.6              |
-| North Dakota   | 1                              | 1                            | 15,269              | 0                   | 0.0               |
-| Oklahoma       | 1                              | 1                            | 21,657              | 0                   | 0.0               |
-| South Carolina | 12                             | 21                           | 359,943             | 238,563             | 66.3              |
-| Tennessee      | 16                             | 298                          | 4,821,502           | 501,156             | 10.4              |
-| Texas          | 56                             | 249                          | 15,140,787          | 5,881,948           | 38.8              |
-| Utah           | 1                              | 1                            | 610                 | 0                   | 0.0               |
-| Virginia       | 8                              | 10                           | 889,515             | 75,000              | 8.4               |
-
-Cargo Theft, 2016
-
-Page 3
-
-Table 2
-
-## Cargo Theft Property Stolen and Recovered
-
-by Type and Value, 2016
-
-Table 2, Download Excel
-
-|                                               | Value of property   | Value of property   | Percent   |
-|-----------------------------------------------|---------------------|---------------------|-----------|
-| Type of property                              | Stolen              | Recovered           | recovered |
-| Total                                         | $26,933,356         | $8,449,949          | 31.4      |
-| Alcohol                                       | 826,360             | 1,029               | 0.1       |
-| Automobile                                    | 392,879             | 180,000             | 45.8      |
-| Bicycle                                       | 6,527               | 0                   | 0.0       |
-| Building materials                            | 1,262,488           | 441,583             | 35.0      |
-| Camping, hunting, fishing equipment, supplies | 144                 | 0                   | 0.0       |
-| Chemicals                                     | 20,400              | 0                   | 0.0       |
-| Clothes, furs                                 | 390,666             | 5,420               | 1.4       |
-| Computer hardware, software                   | 530,772             | 515,925             | 97.2      |
-| Consumable goods                              | 3,066,939           | 301,116             | 9.8       |
-| Credit,debit cards 1                          | 0                   | 0                   |           |
-| Drugs, narcotics                              | 50,081              | 0                   | 0.0       |
-| Farm equipment                                | 3,368               | 500                 | 14.8      |
-| Firearm accessories                           | 41,200              | 40,000              | 97.1      |
-| Firearms                                      | 15,550              | 3,650               | 23.5      |
-| Fuel                                          | 29,770              | 0                   | 0.0       |
-| Household goods                               | 1,557,553           | 112,920             | 7.2       |
-| Identity documents 1                          | 0                   | 0                   |           |
-| Industrial equipment                          | 371,693             | 52,183              | 14.0      |
-| Jewelry, precious metals                      | 17,768              | 548                 | 3.1       |
-| Lawn, yard, garden equipment                  | 5,406               | 4,206               | 77.8      |
-| Livestock                                     | 120,000             | 0                   | 0.0       |
-| Medical, medical lab equipment                | 702                 | 0                   | 0.0       |
-| Merchandise                                   | 732,734             | 27,568              | 3.8       |
-| Metals, nonprecious                           | 1,126,825           | 952,500             | 84.5      |
-| Money                                         | 35,029              | 0                   | 0.0       |
-| Musical instruments                           | 9,000               | 0                   | 0.0       |
-| Negotiable instrument                         | 15                  |                     | 0.0       |
-| 1                                             |                     | 0                   |           |
-| Nonnegotiable instrument                      | 0                   | 0                   |           |
-| Office equipment                              | 303,062             | 0                   | 0.0       |
-| Other                                         | 6,770,506           | 1,021,466           | 15.1      |
-| Other motor vehicles                          | 122,700             | 60,000              | 48.9      |
-| Pending inventory                             | 10                  | 0                   | 0.0       |
-| Photographic, optical equipment               | 53,100              | 2,800               | 5.3       |
-| Portable electronic communications            | 1,262,051           | 18,185              | 1.4       |
-| Purse,wallet                                  | 959                 | 0                   | 0.0       |
-| Radio, TV, VCR                                | 472,001             | 1,500               | 0.3       |
-| Recreational, sports equipment                | 100,500             | 0                   | 0.0       |
-| Tools                                         | 379,657             | 21,850              | 5.8       |
-| Trailers                                      | 2,589,730           | 1,735,703           | 67.0      |
-| Trucks                                        | 3,919,445           | 2,879,963           | 73.5      |
-| Vehicle parts                                 | 345,766             | 69,334              | 20.1      |
-
-$^{1}$ According to Uniform Crime Reporting guidelines, the value of property stolen and/or recovered must be zero for this property description.
-
-Cargo Theft, 2016
-
-Page 4
-
-## Table 3
-
-## Cargo Theft by Location, 2016
-
-Table 3, Download Excel
+## Table 3 Cargo Theft by Location, 2016
 
 | Location type                       |   Total locations |
 |-------------------------------------|-------------------|
@@ -161,15 +130,7 @@ Table 3, Download Excel
 | Specialty Store (TV, Fur, etc.)     |                 4 |
 | Other/Unknown                       |                48 |
 
-Cargo Theft, 2016
-
-Page 5
-
-## Table 4
-
-## Cargo Theft by Victim Type, 2016
-
-Table 5, Download Excel
+## Table 4 Cargo Theft by Victim Type, 2016
 
 | Victim type   |   Total victims |
 |---------------|-----------------|
@@ -178,14 +139,14 @@ Table 5, Download Excel
 | Individual    |              89 |
 | Other         |               6 |
 
-## Table 4, Download Excel
+## Table 5 Cargo Theft by Offense, 2016
 
-Table 5
-
-| Offense  Cargo Theft by Offense, 2016             | Number reported   |
+| Offense                                           | Number reported   |
 |---------------------------------------------------|-------------------|
 | Grand total of offenses                           | 730               |
-| Cargo theft applicable offenses                   |                   |
+
+| Cargo theft applicable offenses                   | Number reported   |
+|---------------------------------------------------|-------------------|
 | All other larceny                                 | 168               |
 | Burglary                                          | 19                |
 | Embezzlement                                      | 29                |
@@ -195,15 +156,13 @@ Table 5
 | Theft from building                               | 14                |
 | Theft from vehicle                                | 363               |
 | Total cargo theft applicable offenses             | 711               |
-| Other offenses occurring with cargo offenses      |                   |
+
+| Other offenses occurring with cargo offenses      | Number reported   |
+|---------------------------------------------------|-------------------|
 | Destruction of property                           | 13                |
 | Shoplifting                                       | 1                 |
 | Stolen property offense                           | 5                 |
 | Total other offenses occurring with cargo offense | 19                |
-
-Cargo Theft, 2016
-
-Page 6
 
 ## Data Declarations and Methodology
 

@@ -1,0 +1,162 @@
+version: 3
+domain: cargo theft statistics
+created_by: Alina Ryan
+document_outline: |
+  FBI cargo theft reports from 2014 to 2018
+seed_examples:
+  - context: >
+          Table 1 Cargo Theft by State 2014
+          |               | Number                                |                                | Value of property   | Value of property   |                    |
+          |---------------|---------------------------------------|--------------------------------|---------------------|---------------------|--------------------|
+          | State         | of  agencies  reporting  an  incident | Number of  incidents  reported | Stolen              | Recovered           | Percent  recovered |
+          | Total         | 134                                   | 547                            | $32,591,534         | $7,707,357          | 23.6               |
+          | Alaska        | 1                                     | 1                              | 492                 | 0                   | 0.0                |
+          | Arkansas      | 2                                     | 2                              | 126,787             | 125,000             | 98.6               |
+          | Colorado      | 4                                     | 4                              | 30,485              | 7,500               | 24.6               |
+          | Delaware      | 4                                     | 4                              | 29,549              | 0                   | 0.0                |
+          | Florida       | 17                                    | 58                             | 6,558,203           | 1,360,229           | 20.7               |
+          | Hawaii 1      | 1                                     | 1                              |                     | 0                   | 0.0                |
+          | Indiana       | 2                                     | 6                              | 446,009             | 200                 | *                  |
+          | Maine         | 2                                     | 2                              | 48                  | 28                  | 58.3               |
+          | Michigan      | 8                                     | 10                             | 343,230             | 119,920             | 34.9               |
+    questions_and_answers:
+      - question: >
+          In 2014, how many agencies reported a cargo theft incident in Florida?
+        answer: >
+          In 2014, 17 agencies reported a cargo theft incident.
+      - question: >
+          In 2014, what was the percentage of cargo theft recovered?
+        answer: >
+          There was 23.6% cargo theft property recovered in 2014.
+      - question: >
+          In 2014, what was the total value of stolen cargo theft property?
+        answer: >
+          The value of stolen cargo theft property in 2014 was $32,591,534.
+  - context: >
+          ## Cargo Theft Property Stolen and Recovered
+          ## by Type and Value, 2015
+          Table 2
+          |                                               | Value of property   | Value of property   | Percent   |
+          |-----------------------------------------------|---------------------|---------------------|-----------|
+          | Type of property                              | Stolen              | Recovered           | recovered |
+          | Total                                         | $27,872,130         | $5,492,273          | 19.7      |
+          | Alcohol                                       | 594,747             | 221,435             | 37.2      |
+          | Automobile                                    | 586,601             | 156,000             | 26.6      |
+          | Bicycle                                       | 2,500               | 0                   | 0.0       |
+          | Building materials                            | 379,126             | 35,000              | 9.2       |
+          | Camping, hunting, fishing equipment, supplies | 469                 | 0                   | 0.0       |
+          | Chemicals                                     | 30,571              | 30,400              | 99.4      |
+          | Clothes, furs                                 | 678,303             | 30,180              | 4.4       |
+          | Computer hardware, software                   | 3,687,931           | 30,050              | 0.8       |
+    questions_and_answers:
+      - question: >
+          In 2015, what was the total value of recovered property?
+        answer: >
+          The total value of recovered property in 2015 was $5,492,273.
+      - question: >
+          What was the value of computer hardware and software stolen in 2015?
+        answer: >
+          The value of stolen computer hardware and software stolen in 2015 was $3,687,931.
+      - question: >
+          What was the value of stolen alcohol recovered in 2015?
+        answer: >
+          The value of stolen alcohol recovered in 2015 was 221,435.
+  - context: >
+        ## Table 2 Cargo Theft Property Stolen and Recovered by Type and Value, 2016
+        | Type of property                              | Value of property stolen | Value of property recovered | Percent recovered |
+        |-----------------------------------------------|--------------------------|-----------------------------|-------------------|
+        | Total                                         | $26,933,356              | $8,449,949                  | 31.4              |
+        | Alcohol                                       | 826,360                  | 1,029                       | 0.1               |
+        | Automobile                                    | 392,879                  | 180,000                     | 45.8              |
+        | Bicycle                                       | 6,527                    | 0                           | 0.0               |
+        | Building materials                            | 1,262,488                | 441,583                     | 35.0              |
+        | Camping, hunting, fishing equipment, supplies | 144                      | 0                           | 0.0               |
+        | Chemicals                                     | 20,400                   | 0                           | 0.0               |
+        | Clothes, furs                                 | 390,666                  | 5,420                       | 1.4               |
+        | Computer hardware, software                   | 530,772                  | 515,925                     | 97.2              |
+        | Consumable goods                              | 3,066,939                | 301,116                     | 9.8               |
+        | Credit,debit cards                            | 0                        | 0                           | None              |
+        | Drugs, narcotics                              | 50,081                   | 0                           | 0.0               |
+    questions_and_answers:
+      - question: >
+          In 2016, what was the percent of recovered drugs and narcotics?
+        answer: >
+          0 percent of drugs and narcotics were recovered in 2016.
+      - question: >
+          What was value of stolen clothes and furs in 2016?
+        answer: >
+          The value of stolen clothes and furs in 2016 was 390,666.
+      - question: >
+          What was the percentage of cargo theft that was recovered in 2016?
+        answer: >
+          31.4% of cargo theft was recovered in 2016.
+  - context: >
+        ## Table 4
+        ## Cargo Theft by Victim Type, 2017
+        | Victim type   |   Total victims |
+        |---------------|-----------------|
+        | Business      |             681 |
+        | Financial     |               1 |
+        | Government    |               7 |
+        | Individual    |              80 |
+        | Other         |               1 |
+        | Society       |               1 |
+        | Unknown       |               5 |
+
+    questions_and_answers:
+      - question: >
+          How many business victim types were affected in 2017?
+        answer: >
+          There were 681 total business victims affected in 2017.
+      - question: >
+          Were there more cargo thefts to businesses or to government in 2017?
+        answer: >
+          There was more cargo theft to business, 681 total victims, than government, 7 total victims.
+      - question: >
+          How many individual victim types were affected in 2017?
+        answer: >
+          There were 80 individual victim types affect in 2017.
+  - context: >
+        Table 5
+        | Cargo Theft by Offense, 2018  Offense             | Number  reported   |
+        |---------------------------------------------------|--------------------|
+        | Grand total of offenses                           | 722                |
+        | Cargo theft applicable offenses                   |                    |
+        | All other larceny                                 | 219                |
+        | Burglary                                          | 21                 |
+        | Embezzlement                                      | 23                 |
+        | False pretenses, swindle, confidence game         | 4                  |
+        | Impersonation                                     | 1                  |
+        | Motor vehicle theft                               | 93                 |
+        | Robbery                                           | 3                  |
+        | Theft from building                               | 18                 |
+        | Theft from motor vehicle                          | 310                |
+        | Total cargo theft applicable offenses             | 692                |
+        | Other offenses occurring with cargo offenses      |                    |
+        | Aggravated assault                                | 3                  |
+        | Destruction of property                           | 15                 |
+        | Drug equipment violations                         | 2                  |
+        | Drug, narcotic violations                         | 2                  |
+        | Kidnapping, abduction                             | 1                  |
+        | Stolen property offense                           | 5                  |
+        | Weapon law                                        | 2                  |
+        | Total other offenses occurring with cargo offense | 30                 |
+    questions_and_answers:
+      - question: >
+          What was the total number of other offenses that occurred with cargo offense in 2018?
+        answer: >
+          The total number of other offenses that occured with cargo offense in 2018 was 30.
+      - question: >
+          What was the reported number of cargo theft aggravated assaults in 2018?
+        answer: >
+          There were 3 cargo theft aggravated assaults reported in 2018.
+      - question: >
+          What was the reported number of cargo theft related robberies reported in 2018?
+        answer: >
+          There were 3 cargo theft related robberies reported in 2018.
+document:
+  repo: 'file:///home/alina/fbi-poc/'
+  commit: 20a0c798d380f2dba6b28e3d0e526cb8c5cc943a
+  patterns:
+    - 'data_preparation/converted_documents/*'
+

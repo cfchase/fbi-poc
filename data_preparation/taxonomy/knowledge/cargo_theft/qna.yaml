@@ -23,7 +23,7 @@ seed_examples:
       - question: >
           In 2014, how many agencies reported a cargo theft incident in Florida?
         answer: >
-          In 2014, 17 agencies reported a cargo theft incident.
+          In 2014, 17 agencies in Florida reported a cargo theft incident.
       - question: >
           In 2014, what was the percentage of cargo theft recovered?
         answer: >
